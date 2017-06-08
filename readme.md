@@ -6,18 +6,6 @@ Pull requests are welcome. Thank you. 💙
 
 # Subreddits
 
-# [fitness 🤖](https://www.reddit.com/r/Fitness/)
-
-
-# [astronomy 🤖](https://www.reddit.com/r/Astronomy/)
-
-
-# [arduino 🤖](https://www.reddit.com/r/arduino/)
-
-
-# [marketing 🤖](https://www.reddit.com/r/marketing/)
-
-
 # code
 
 
@@ -241,6 +229,10 @@ Pull requests are welcome. Thank you. 💙
 
 - [sociology 🤖](https://www.reddit.com/r/sociology/)
 
+- [marketing 🤖](https://www.reddit.com/r/marketing/)
+
+- [arduino 🤖](https://www.reddit.com/r/arduino/)
+
 - [simple living 🤖](https://www.reddit.com/r/simpleliving/)
 
 - [NLP 🤖](https://www.reddit.com/r/LanguageTechnology/)
@@ -262,6 +254,8 @@ Pull requests are welcome. Thank you. 💙
 - [philosophy 🤖](https://www.reddit.com/r/philosophy/)
 
 - [anthropology 🤖](https://www.reddit.com/r/Anthropology/)
+
+- [fitness 🤖](https://www.reddit.com/r/Fitness/)
 
 
 # history
@@ -296,9 +290,11 @@ Pull requests are welcome. Thank you. 💙
 - [explorables 🤖](https://www.reddit.com/r/explorables/)
   interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas
 
-- [physics 🤖](https://www.rededit.com/r/Physics/)
+- [physics 🤖](https://www.reddit.com/r/Physics/)
 
 - [chemistry 🤖](https://www.reddit.com/r/chemistry/)
+
+- [astronomy 🤖](https://www.reddit.com/r/Astronomy/)
 
 
 # bikes
