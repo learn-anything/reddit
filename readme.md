@@ -71,6 +71,8 @@ Pull requests are welcome. Thank you. 💙
 
 - [80s electro 🤖](https://www.reddit.com/r/80sElectro/)
 
+- [cyber punk music 🤖](https://www.reddit.com/r/Cyberpunk_Music/)
+
 
 # consciousness
 
@@ -158,6 +160,12 @@ Pull requests are welcome. Thank you. 💙
 - [nootropics 🤖](https://www.reddit.com/r/Nootropics/)
 
 - [vegan 🤖](https://www.reddit.com/r/vegan/)
+
+- [longevity 🤖](https://www.reddit.com/r/longevity/)
+
+- [advanced fitness 🤖](https://www.reddit.com/r/AdvancedFitness/)
+
+- [nutrition 🤖](https://www.reddit.com/r/nutrition/)
 
 
 # gaming
@@ -257,6 +265,44 @@ Pull requests are welcome. Thank you. 💙
 
 - [fitness 🤖](https://www.reddit.com/r/Fitness/)
 
+- [singularity 🤖](https://www.reddit.com/r/singularity/)
+
+- [ynab 🤖](https://www.reddit.com/r/ynab/)
+
+- [investing 🤖](https://www.reddit.com/r/investing/)
+
+- [depthhub 🤖](https://www.reddit.com/r/DepthHub/)
+
+- [lectures 🤖](https://www.reddit.com/r/lectures/)
+
+- [anki 🤖](https://www.reddit.com/r/Anki/)
+
+- [cognitive science 🤖](https://www.reddit.com/r/cogsci/)
+
+- [artificial intelligence 🤖](https://www.reddit.com/r/artificial/)
+
+- [minimalism 🤖](https://www.reddit.com/r/minimalism/)
+
+- [startups 🤖](https://www.reddit.com/r/startups/)
+
+- [true film 🤖](https://www.reddit.com/r/TrueFilm/)
+
+- [privacy 🤖](https://www.reddit.com/r/privacy/)
+
+- [out of the loop 🤖](https://www.reddit.com/r/OutOfTheLoop/)
+
+- [technology 🤖](https://www.reddit.com/r/technology/)
+
+- [ELI 5 🤖](https://www.reddit.com/r/explainlikeimfive/)
+
+- [askreddit 🤖](https://www.reddit.com/r/AskReddit/)
+
+- [data is beautiful 🤖](https://www.reddit.com/r/dataisbeautiful/)
+
+- [futurology 🤖](https://www.reddit.com/r/Futurology/)
+
+- [ask historians 🤖](http://www.reddit.com/r/askhistorians)
+
 
 # history
 
@@ -295,6 +341,8 @@ Pull requests are welcome. Thank you. 💙
 - [chemistry 🤖](https://www.reddit.com/r/chemistry/)
 
 - [astronomy 🤖](https://www.reddit.com/r/Astronomy/)
+
+- [science 🤖](https://www.reddit.com/r/science/)
 
 
 # bikes
