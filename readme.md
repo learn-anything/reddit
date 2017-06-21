@@ -4,6 +4,11 @@ This is an extension to [Learn Anything Search Engine](https://learn-anything.xy
 
 Pull requests are welcome. Thank you. 💙
 
+#### Related websites / repositories 
+
+- [awesome subreddits](https://github.com/iCHAIT/awesome-subreddits)
+
+
 # Subreddits
 
 # code
