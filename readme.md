@@ -1,4 +1,16 @@
-# Reddit subreddits all can learn from 🤖
+<h1 align="center">   Reddit subreddits all can learn from 🤖 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/nikitavoloboev">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/nikitavoloboev/reddit/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting subreddits one can vist to learn new things and discover new insights. 🔭
 
@@ -8,8 +20,7 @@ Pull requests are welcome. Thank you. 💙
 
 - [awesome subreddits](https://github.com/iCHAIT/awesome-subreddits)
 
-
-# Subreddits
+<h1 align="center">   Subreddits </h1>
 
 # code
 
