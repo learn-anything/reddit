@@ -183,6 +183,8 @@ Pull requests are welcome. Thank you. 💙
 
 - [nutrition 🤖](https://www.reddit.com/r/nutrition/)
 
+- [keto 🤖](https://www.reddit.com/r/keto/)
+
 
 # gaming
 
