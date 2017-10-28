@@ -166,8 +166,7 @@ Pull requests are welcome. Thank you. 💙
 - [ask science](https://www.reddit.com/r/askscience/)
 - [quantum computing](https://www.reddit.com/r/QuantumComputing/)
 - [computational chemistry](https://www.reddit.com/r/comp_chem/)
-- [explorables](https://www.reddit.com/r/explorables/)
-  interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas
+- [explorables](https://www.reddit.com/r/explorables/) : interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas
 - [physics](https://www.reddit.com/r/Physics/)
 - [chemistry](https://www.reddit.com/r/chemistry/)
 - [astronomy](https://www.reddit.com/r/Astronomy/)
