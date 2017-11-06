@@ -1,10 +1,10 @@
-# Reddit subreddits all can learn from 🤖 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting subreddits one can vist to learn new things and discover new insights. 
+# Interesting Reddit subreddits [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting subreddits.
 
-### Related websites / repositories 
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
 - [awesome subreddits](https://github.com/iCHAIT/awesome-subreddits)
 
 ## Subreddits 
@@ -173,3 +173,6 @@ Pull requests are welcome. Thank you. 💙
 
 ### Bikes
 - [bike commuting](https://www.reddit.com/r/bikecommuting/)
+
+## Contribute 
+If you found a subreddit that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
