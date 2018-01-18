@@ -1,178 +1,243 @@
-# Interesting Reddit subreddits [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Reddit subreddits [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-This is a curated list of all the interesting subreddits.
+## Code
+- [Learn programming](https://www.reddit.com/r/learnprogramming/)
+- [Programming](https://www.reddit.com/r/programming/)
+- [Tiny code](https://www.reddit.com/r/tinycode/)
+- [Daily programmer](https://www.reddit.com/r/dailyprogrammer/)
+- [Programmer tools](https://www.reddit.com/r/programmingtools/)
+- [Vim](https://www.reddit.com/r/vim/)
+- [Vim magic](https://www.reddit.com/r/vim_magic/)
+- [Programmer til](https://www.reddit.com/r/ProgrammerTIL/)
+- [Reverse engineering](https://www.reddit.com/r/ReverseEngineering/)
+- [Coding](https://www.reddit.com/r/coding/)
+- [Systems](https://www.reddit.com/r/systems/)
 
-Pull requests are welcome. Thank you. 💜
+## General
+- [iPhonegraphy](https://www.reddit.com/r/iPhoneography/)
+- [Photography](https://www.reddit.com/r/photography/)
+- [Speedrun](https://www.reddit.com/r/speedrun/)
+- [Stellar](https://www.reddit.com/r/Stellar/)
 
-## Related websites / repositories 
-- [awesome subreddits](https://github.com/iCHAIT/awesome-subreddits)
+## Web
+- [Web dev](https://www.reddit.com/r/webdev/)
+- [Web design](https://www.reddit.com/r/web_design/)
+- [Learn javascript](https://www.reddit.com/r/learnjavascript/)
+- [Node js](https://www.reddit.com/r/node/)
+- [Front end](https://www.reddit.com/r/Frontend/)
+- [Rails](https://www.reddit.com/r/rails/)
+- [React js](https://www.reddit.com/r/reactjs/)
+- [Internet is beautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 
-## Subreddits 
-### Code 
-- [learn programming](https://www.reddit.com/r/learnprogramming/)
-- [programming](https://www.reddit.com/r/programming/)
-- [tiny code](https://www.reddit.com/r/tinycode/)
-- [daily programmer](https://www.reddit.com/r/dailyprogrammer/)
-- [programmer tools](https://www.reddit.com/r/programmingtools/)
-- [vim](https://www.reddit.com/r/vim/)
-- [vim magic](https://www.reddit.com/r/vim_magic/)
-- [programmer til](https://www.reddit.com/r/ProgrammerTIL/)
-- [reverse engineering](https://www.reddit.com/r/ReverseEngineering/)
-- [coding](https://www.reddit.com/r/coding/)
-- [systems](https://www.reddit.com/r/systems/)
-
-### Web
-- [web dev](https://www.reddit.com/r/webdev/)
-- [web design](https://www.reddit.com/r/web_design/)
-- [node js](https://www.reddit.com/r/node/)
-- [front end](https://www.reddit.com/r/Frontend/)
-- [rails](https://www.reddit.com/r/rails/)
-- [react js](https://www.reddit.com/r/reactjs/)
-- [internet is beautiful](https://www.reddit.com/r/InternetIsBeautiful/)
-
-### Music
-- [listen to this](https://www.reddit.com/r/listentothis/)
-- [future beats](https://www.reddit.com/r/futurebeats/)
-- [experimental music](https://www.reddit.com/r/experimentalmusic/)
-- [future pop music](https://www.reddit.com/r/futurepopmusic/)
-- [listen to us](https://www.reddit.com/r/listentous/)
-- [future synth](https://www.reddit.com/r/futuresynth/)
-- [new retro wave](https://www.reddit.com/r/newretrowave/)
+## Music
+- [Listen to this](https://www.reddit.com/r/listentothis/)
+- [Future beats](https://www.reddit.com/r/futurebeats/)
+- [Experimental music](https://www.reddit.com/r/experimentalmusic/)
+- [Future pop music](https://www.reddit.com/r/futurepopmusic/)
+- [Listen to us](https://www.reddit.com/r/listentous/)
+- [Future synth](https://www.reddit.com/r/futuresynth/)
+- [New retro wave](https://www.reddit.com/r/newretrowave/)
 - [80s electro](https://www.reddit.com/r/80sElectro/)
-- [cyber punk music](https://www.reddit.com/r/Cyberpunk_Music/)
+- [Cyber punk music](https://www.reddit.com/r/Cyberpunk_Music/)
 
-### Consciousness
-- [psychonaut](https://www.reddit.com/r/Psychonaut/)
-- [rational psychonaut](https://www.reddit.com/r/RationalPsychonaut/)
-- [meditation](https://www.reddit.com/r/Meditation/)
-- [neuro](https://www.reddit.com/r/neuro/)
+## Consciousness
+- [Psychonaut](https://www.reddit.com/r/Psychonaut/)
+- [Rational psychonaut](https://www.reddit.com/r/RationalPsychonaut/)
+- [Meditation](https://www.reddit.com/r/Meditation/)
+- [Neuro](https://www.reddit.com/r/neuro/)
 
-### Programming Languages
-- [golang](https://www.reddit.com/r/golang/)
-- [swift](https://www.reddit.com/r/swift/)
-- [javascript](https://www.reddit.com/r/javascript/)
-- [powershell](https://www.reddit.com/r/PowerShell/)
-- [python](https://www.reddit.com/r/Python/)
-- [java](https://www.reddit.com/r/java/)
-- [kotlin](https://www.reddit.com/r/factorio/)
-- [haskell](https://www.reddit.com/r/haskell/)
-- [perl](https://www.reddit.com/r/perl/)
+## Programming languages
+- [Golang](https://www.reddit.com/r/golang/)
+- [Swift](https://www.reddit.com/r/swift/)
+- [Javascript](https://www.reddit.com/r/javascript/)
+- [Powershell](https://www.reddit.com/r/PowerShell/)
+- [Python](https://www.reddit.com/r/Python/)
+- [Java](https://www.reddit.com/r/java/)
+- [Kotlin](https://www.reddit.com/r/factorio/)
+- [Haskell](https://www.reddit.com/r/haskell/)
+- [Perl](https://www.reddit.com/r/perl/)
+- [Coq](https://www.reddit.com/r/Coq/)
 
-### Apple
-- [apple](https://www.reddit.com/r/apple/)
-- [iosdev](https://www.reddit.com/r/iosdev/)
-- [macos](https://www.reddit.com/r/MacOS/)
-- [osx](https://www.reddit.com/r/osx/)
-- [ios programming](https://www.reddit.com/r/iOSProgramming/)
-- [mac apps](https://www.reddit.com/r/macapps/)
+## Programming
+- [Advent of Code](https://www.reddit.com/r/adventofcode/)
 
-### Computer Science
-- [cs career questions](https://www.reddit.com/r/cscareerquestions/)
-- [computer science](https://www.reddit.com/r/compsci/)
-- [ask computer science](https://www.reddit.com/r/AskComputerScience/)
-- [algorithms](https://www.reddit.com/r/algorithms/)
-- [compsci](https://www.reddit.com/r/datascience/)
+## Apple
+- [Apple](https://www.reddit.com/r/apple/)
+- [Iosdev](https://www.reddit.com/r/iosdev/)
+- [MacOS](https://www.reddit.com/r/MacOS/)
+- [Osx](https://www.reddit.com/r/osx/)
+- [iOS programming](https://www.reddit.com/r/iOSProgramming/)
+- [Mac apps](https://www.reddit.com/r/macapps/)
 
-### Linux
-- [linux](https://www.reddit.com/r/linux/)
-- [docker](https://www.reddit.com/r/docker/)
-- [android](https://www.reddit.com/r/Android/)
+## Computer science
+- [CS career questions](https://www.reddit.com/r/cscareerquestions/)
+- [Ask computer science](https://www.reddit.com/r/AskComputerScience/)
+- [Algorithms](https://www.reddit.com/r/algorithms/)
+- [Compsci](https://www.reddit.com/r/compsci/)
+- [Netsec](https://www.reddit.com/r/netsec/)
 
-### Health
-- [health](https://www.reddit.com/r/Health/)
-- [get disciplined](https://www.reddit.com/r/getdisciplined/)
-- [nootropics](https://www.reddit.com/r/Nootropics/)
-- [vegan](https://www.reddit.com/r/vegan/)
-- [longevity](https://www.reddit.com/r/longevity/)
-- [advanced fitness](https://www.reddit.com/r/AdvancedFitness/)
-- [nutrition](https://www.reddit.com/r/nutrition/)
+## Linux
+- [Linux](https://www.reddit.com/r/linux/)
+- [Docker](https://www.reddit.com/r/docker/)
+- [Android](https://www.reddit.com/r/Android/)
 
-### Gaming
-- [patient gamers](https://www.reddit.com/r/patientgamers/)
-
-### Math
-- [fractals](https://www.reddit.com/r/fractals/)
-- [gonwild](https://www.reddit.com/r/gonwild/)
-- [holofractal](https://www.reddit.com/r/holofractal/)
-- [fived](https://www.reddit.com/r/fived/)
-- [hypershape](https://www.reddit.com/r/hypershape/)
-- [math](https://www.reddit.com/r/math/)
-
-### Art
-- [imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
-
-### Games
-- [factorio](https://www.reddit.com/r/factorio/)
-
-### Funny
-- [stopped working](https://www.reddit.com/r/StoppedWorking/)
-
-
-### Other
-- [outside](https://www.reddit.com/r/outside/)
-- [nature is lit](https://www.reddit.com/r/NatureIsFuckingLit/)
-- [united kingdom](https://www.reddit.com/r/unitedkingdom/)
-- [cinemagraphs](https://www.reddit.com/r/Cinemagraphs/)
-- [internet of things](https://www.reddit.com/r/IOT/)
-- [res](https://www.reddit.com/r/Enhancement/)
-- [videos](https://www.reddit.com/r/videos/)
-- [i want out](https://www.reddit.com/r/IWantOut/)
-- [art](https://www.reddit.com/r/Art/)
-- [dotnet](https://www.reddit.com/r/dotnet/)
-- [sociology](https://www.reddit.com/r/sociology/)
-- [marketing](https://www.reddit.com/r/marketing/)
-- [arduino](https://www.reddit.com/r/arduino/)
-- [simple living](https://www.reddit.com/r/simpleliving/)
+# Other
+- [Fellow Kids](https://www.reddit.com/r/FellowKids/)
+- [Took too much](https://www.reddit.com/r/tooktoomuch/)
+- [Fake album covers](https://www.reddit.com/r/fakealbumcovers/)
+- [Outside](https://www.reddit.com/r/outside/)
+- [Nature is lit](https://www.reddit.com/r/NatureIsFuckingLit/)
+- [United Kingdom](https://www.reddit.com/r/unitedkingdom/)
+- [Cinemagraphs](https://www.reddit.com/r/Cinemagraphs/)
+- [Internet of things](https://www.reddit.com/r/IOT/)
+- [Res](https://www.reddit.com/r/Enhancement/)
+- [Outrun](https://www.reddit.com/r/outrun/)
+- [Videos](https://www.reddit.com/r/videos/)
+- [I want out](https://www.reddit.com/r/IWantOut/)
+- [Art](https://www.reddit.com/r/Art/)
+- [Dotnet](https://www.reddit.com/r/dotnet/)
+- [Btc](https://www.reddit.com/r/btc/)
+- [Sociology](https://www.reddit.com/r/sociology/)
+- [Marketing](https://www.reddit.com/r/marketing/)
+- [Arduino](https://www.reddit.com/r/arduino/)
+- [Simple living](https://www.reddit.com/r/simpleliving/)
 - [NLP](https://www.reddit.com/r/LanguageTechnology/)
-- [procedural generation](https://www.reddit.com/r/proceduralgeneration/)
-- [knowledge map](https://www.reddit.com/r/factorio/)
-- [data science](https://www.reddit.com/r/datascience/)
-- [late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/)
-- [history](https://www.reddit.com/r/history/)
-- [financial independence](https://www.reddit.com/r/financialindependence/)
-- [stoicism](https://www.reddit.com/r/Stoicism/)
-- [philosophy](https://www.reddit.com/r/philosophy/)
-- [anthropology](https://www.reddit.com/r/Anthropology/)
-- [fitness](https://www.reddit.com/r/Fitness/)
-- [singularity](https://www.reddit.com/r/singularity/)
-- [ynab](https://www.reddit.com/r/ynab/)
-- [lectures](https://www.reddit.com/r/lectures/)
-- [anki](https://www.reddit.com/r/Anki/)
-- [cognitive science](https://www.reddit.com/r/cogsci/)
-- [artificial intelligence](https://www.reddit.com/r/artificial/)
-- [minimalism](https://www.reddit.com/r/minimalism/)
-- [true film](https://www.reddit.com/r/TrueFilm/)
-- [privacy](https://www.reddit.com/r/privacy/)
-- [out of the loop](https://www.reddit.com/r/OutOfTheLoop/)
-- [technology](https://www.reddit.com/r/technology/)
+- [Procedural generation](https://www.reddit.com/r/proceduralgeneration/)
+- [Knowledge map](https://www.reddit.com/r/factorio/)
+- [Data science](https://www.reddit.com/r/datascience/)
+- [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/)
+- [History](https://www.reddit.com/r/history/)
+- [Financial independence](https://www.reddit.com/r/financialindependence/)
+- [Stoicism](https://www.reddit.com/r/Stoicism/)
+- [Philosophy](https://www.reddit.com/r/philosophy/)
+- [Anthropology](https://www.reddit.com/r/Anthropology/)
+- [Fitness](https://www.reddit.com/r/Fitness/)
+- [Singularity](https://www.reddit.com/r/singularity/)
+- [Ynab](https://www.reddit.com/r/ynab/)
+- [Investing](https://www.reddit.com/r/investing/)
+- [Depthhub](https://www.reddit.com/r/DepthHub/)
+- [Lectures](https://www.reddit.com/r/lectures/)
+- [Anki](https://www.reddit.com/r/Anki/)
+- [Cognitive science](https://www.reddit.com/r/cogsci/)
+- [Artificial intelligence](https://www.reddit.com/r/artificial/)
+- [Minimalism](https://www.reddit.com/r/minimalism/)
+- [Startups](https://www.reddit.com/r/startups/)
+- [True film](https://www.reddit.com/r/TrueFilm/)
+- [Creative coding](https://www.reddit.com/r/creativecoding/)
+- [Privacy](https://www.reddit.com/r/privacy/)
+- [Out of the loop](https://www.reddit.com/r/OutOfTheLoop/)
+- [Technology](https://www.reddit.com/r/technology/)
+- [Latex](https://www.reddit.com/r/LaTeX/)
+- [London](https://www.reddit.com/r/london/)
+- [Alfred](https://www.reddit.com/r/Alfred/)
+- [Russia](https://www.reddit.com/r/russia/)
 - [ELI 5](https://www.reddit.com/r/explainlikeimfive/)
-- [askreddit](https://www.reddit.com/r/AskReddit/)
-- [data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
-- [futurology](https://www.reddit.com/r/Futurology/)
-- [ask historians](http://www.reddit.com/r/askhistorians)
+- [Zsh](https://www.reddit.com/r/zsh/)
+- [Unity](https://www.reddit.com/r/Unity3D/)
+- [3blue1brown](https://www.reddit.com/r/3Blue1Brown/)
+- [Idris](https://www.reddit.com/r/Idris/)
+- [Lisp](https://www.reddit.com/r/lisp/)
+- [Arch](https://www.reddit.com/r/archlinux/)
+- [Godot](https://www.reddit.com/r/godot/)
+- [Applescript](https://www.reddit.com/r/applescript/)
+- [Rick and Morty](https://www.reddit.com/r/rickandmorty/)
+- [Rust](https://www.reddit.com/r/rust/)
+- [Simulated reality](https://www.reddit.com/r/AWLIAS/)
+- [Japan](https://www.reddit.com/r/japan/)
+- [Live aboard](https://www.reddit.com/r/liveaboard/)
+- [Startled cats](https://www.reddit.com/r/StartledCats/)
+- [Askreddit](https://www.reddit.com/r/AskReddit/)
+- [Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
+- [Futurology](https://www.reddit.com/r/Futurology/)
+- [Ask historians](http://www.reddit.com/r/askhistorians)
+- [LSD](https://www.reddit.com/r/LSD/)
+- [Dependent types](https://www.reddit.com/r/dependent_types/)
+- [DMT](https://www.reddit.com/r/DMT/)
+- [Physics gifs](https://www.reddit.com/r/physicsgifs/)
+- [Osdev](https://www.reddit.com/r/osdev/)
+- [VS Code](https://www.reddit.com/r/vscode/)
+- [Civilisation](https://www.reddit.com/r/civ/)
+- [Sublime Text](https://www.reddit.com/r/SublimeText/top/)
+- [Multihub](https://www.reddit.com/r/multihub/)
+- [Unix porn](https://www.reddit.com/r/unixporn/)
+- [Self hosted](https://www.reddit.com/r/selfhosted/)
+- [Firefox](https://www.reddit.com/r/firefox/)
+- [Anti facebook](https://www.reddit.com/r/AntiFacebook/)
+- [Ethereum](https://www.reddit.com/r/ethereum/)
+- [Rad decentralisation](https://www.reddit.com/r/Rad_Decentralization/)
+- [C++](https://www.reddit.com/r/cpp/)
+- [NixOS](https://www.reddit.com/r/NixOS/)
+- [Clojure](https://www.reddit.com/r/Clojure/)
+- [Telegram](https://www.reddit.com/r/Telegram/)
+- [Discord](https://www.reddit.com/r/discordapp/)
+- [High intensity interval training](https://www.reddit.com/r/HIIT/)
+- [Hearthstone](https://www.reddit.com/r/hearthstone/)
+- [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
+- [Meshnet](https://www.reddit.com/r/Meshnet/)
+- [Darknet plan](https://www.reddit.com/r/Bitcoin/comments/54yyys/gotenna_decentralised_mobile_mesh_grid_with_sdk/)
+- [C programming](https://www.reddit.com/r/C_Programming/)
+- [Emacs](https://www.reddit.com/r/emacs/)
+- [Google](https://www.reddit.com/r/google/)
+- [Mac setups](https://www.reddit.com/r/macsetups/)
+- [Mdma](https://www.reddit.com/r/MDMA/)
+- [Glitch art](https://www.reddit.com/r/glitch_art/)
+- [Simulated](https://www.reddit.com/r/Simulated/)
+- [4amshower](https://www.reddit.com/r/4amShower/)
+- [Chip tunes](https://www.reddit.com/r/chiptunes)
 
-### History
-- [art history](https://www.reddit.com/r/ArtHistory/)
+## Health
+- [Health](https://www.reddit.com/r/Health/)
+- [Get disciplined](https://www.reddit.com/r/getdisciplined/)
+- [Nootropics](https://www.reddit.com/r/Nootropics/)
+- [Vegan](https://www.reddit.com/r/vegan/)
+- [Longevity](https://www.reddit.com/r/longevity/)
+- [Advanced fitness](https://www.reddit.com/r/AdvancedFitness/)
+- [Nutrition](https://www.reddit.com/r/nutrition/)
 
-### Drugs
-- [drug nerds](https://www.reddit.com/r/DrugNerds/)
+## Science
+- [Askscience](https://www.reddit.com/r/askscience/)
+- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
+- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
+- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
+- [Physics](https://www.reddit.com/r/Physics/)
+- [Chemistry](https://www.reddit.com/r/chemistry/)
+- [Astronomy](https://www.reddit.com/r/Astronomy/)
+- [Science](https://www.reddit.com/r/science/)
 
-### Machine Learning
-- [machine learning](https://www.reddit.com/r/Art/)
-- [big data](https://www.reddit.com/r/bigdata/)
+## Gaming
+- [Patient gamers](https://www.reddit.com/r/patientgamers/)
 
-### Science
-- [ask science](https://www.reddit.com/r/askscience/)
-- [quantum computing](https://www.reddit.com/r/QuantumComputing/)
-- [computational chemistry](https://www.reddit.com/r/comp_chem/)
-- [explorables](https://www.reddit.com/r/explorables/) : interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas
-- [physics](https://www.reddit.com/r/Physics/)
-- [chemistry](https://www.reddit.com/r/chemistry/)
-- [astronomy](https://www.reddit.com/r/Astronomy/)
-- [science](https://www.reddit.com/r/science/)
+## Math
+- [Fractals](https://www.reddit.com/r/fractals/)
+- [Gonwild](https://www.reddit.com/r/gonwild/)
+- [Holofractal](https://www.reddit.com/r/holofractal/)
+- [Fived](https://www.reddit.com/r/fived/)
+- [Hypershape](https://www.reddit.com/r/hypershape/)
+- [Math](https://www.reddit.com/r/math/)
 
-### Bikes
-- [bike commuting](https://www.reddit.com/r/bikecommuting/)
+## Art
+- [Imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
 
-## Contribute 
-If you found a subreddit that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## Games
+- [Factorio](https://www.reddit.com/r/factorio/)
+
+## Funny
+- [Stopped working](https://www.reddit.com/r/StoppedWorking/)
+
+## History
+- [Art history](https://www.reddit.com/r/ArtHistory/)
+
+## Drugs
+- [Drug nerds](https://www.reddit.com/r/DrugNerds/)
+- [Drugs](https://www.reddit.com/r/Drugs/)
+- [Replications](https://www.reddit.com/r/replications/)
+
+## Machine learning
+- [Machine learning](https://www.reddit.com/r/MachineLearning/)
+- [Big data](https://www.reddit.com/r/bigdata/)
+
+## Bikes
+- [Bike commuting](https://www.reddit.com/r/bikecommuting/)
+
+## Related
+- [Awesome subreddits](https://github.com/iCHAIT/awesome-subreddits)
