@@ -158,7 +158,7 @@
 - [Osdev](https://www.reddit.com/r/osdev/)
 - [VS Code](https://www.reddit.com/r/vscode/)
 - [Civilisation](https://www.reddit.com/r/civ/)
-- [Sublime Text](https://www.reddit.com/r/SublimeText/top/)
+- [Sublime Text](https://www.reddit.com/r/SublimeText/)
 - [Multihub](https://www.reddit.com/r/multihub/)
 - [Unix porn](https://www.reddit.com/r/unixporn/)
 - [Self hosted](https://www.reddit.com/r/selfhosted/)
