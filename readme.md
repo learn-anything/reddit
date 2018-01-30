@@ -19,6 +19,7 @@
 - [Photography](https://www.reddit.com/r/photography/)
 - [Speedrun](https://www.reddit.com/r/speedrun/)
 - [Stellar](https://www.reddit.com/r/Stellar/)
+- [Writing](https://www.reddit.com/r/writing/)
 
 ## Web
 - [Web dev](https://www.reddit.com/r/webdev/)
