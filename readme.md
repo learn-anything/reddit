@@ -20,6 +20,7 @@
 - [Speedrun](https://www.reddit.com/r/speedrun/)
 - [Stellar](https://www.reddit.com/r/Stellar/)
 - [Writing](https://www.reddit.com/r/writing/)
+- [CineShots](https://www.reddit.com/r/CineShots/)
 
 ## Web
 - [Web dev](https://www.reddit.com/r/webdev/)
