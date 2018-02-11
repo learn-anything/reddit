@@ -235,6 +235,7 @@
 - [Drug nerds](https://www.reddit.com/r/DrugNerds/)
 - [Drugs](https://www.reddit.com/r/Drugs/)
 - [Replications](https://www.reddit.com/r/replications/)
+- [NovelDissos](https://www.reddit.com/r/NovelDissos/)
 
 ## Machine learning
 - [Machine learning](https://www.reddit.com/r/MachineLearning/)
