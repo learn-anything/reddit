@@ -14,15 +14,6 @@
 - [Coding](https://www.reddit.com/r/coding/)
 - [Systems](https://www.reddit.com/r/systems/)
 
-## General
-- [iPhonegraphy](https://www.reddit.com/r/iPhoneography/)
-- [Photography](https://www.reddit.com/r/photography/)
-- [Speedrun](https://www.reddit.com/r/speedrun/)
-- [Stellar](https://www.reddit.com/r/Stellar/)
-- [Writing](https://www.reddit.com/r/writing/)
-- [CineShots](https://www.reddit.com/r/CineShots/)
-- [SpaceX](https://www.reddit.com/r/spacex/)
-
 ## Web
 - [Web dev](https://www.reddit.com/r/webdev/)
 - [Web design](https://www.reddit.com/r/web_design/)
@@ -188,6 +179,13 @@
 - [Simulated](https://www.reddit.com/r/Simulated/)
 - [4amshower](https://www.reddit.com/r/4amShower/)
 - [Chip tunes](https://www.reddit.com/r/chiptunes)
+- [iPhonegraphy](https://www.reddit.com/r/iPhoneography/)
+- [Photography](https://www.reddit.com/r/photography/)
+- [Speedrun](https://www.reddit.com/r/speedrun/)
+- [Stellar](https://www.reddit.com/r/Stellar/)
+- [Writing](https://www.reddit.com/r/writing/)
+- [CineShots](https://www.reddit.com/r/CineShots/)
+- [SpaceX](https://www.reddit.com/r/spacex/)
 
 ## Health
 - [Health](https://www.reddit.com/r/Health/)
@@ -207,6 +205,9 @@
 - [Chemistry](https://www.reddit.com/r/chemistry/)
 - [Astronomy](https://www.reddit.com/r/Astronomy/)
 - [Science](https://www.reddit.com/r/science/)
+
+## Cryptocurrencies
+- [CryptoTechnology](https://www.reddit.com/r/CryptoTechnology/)
 
 ## Gaming
 - [Patient gamers](https://www.reddit.com/r/patientgamers/)
