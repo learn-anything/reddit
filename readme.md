@@ -247,7 +247,7 @@
 - [Bike commuting](https://www.reddit.com/r/bikecommuting/)
 
 ## Related
-- [Awesome subreddits](https://github.com/iCHAIT/awesome-subreddits)
+- [Awesome subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md/#contribution-guidelines).
