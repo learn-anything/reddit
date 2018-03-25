@@ -79,6 +79,7 @@
 # Other
 - [Security Analysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [Fellow Kids](https://www.reddit.com/r/FellowKids/)
+- [GIF recipes](https://www.reddit.com/r/GifRecipes/)
 - [Took too much](https://www.reddit.com/r/tooktoomuch/)
 - [Fake album covers](https://www.reddit.com/r/fakealbumcovers/)
 - [Outside](https://www.reddit.com/r/outside/)
