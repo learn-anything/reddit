@@ -138,6 +138,7 @@
 - [Godot](https://www.reddit.com/r/godot/)
 - [Applescript](https://www.reddit.com/r/applescript/)
 - [Rick and Morty](https://www.reddit.com/r/rickandmorty/)
+- [Silicon Valley HBO](https://www.reddit.com/r/SiliconValleyHBO/)
 - [Rust](https://www.reddit.com/r/rust/)
 - [Simulated reality](https://www.reddit.com/r/AWLIAS/)
 - [Japan](https://www.reddit.com/r/japan/)
