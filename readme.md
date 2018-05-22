@@ -109,6 +109,7 @@
 - [Philosophy](https://www.reddit.com/r/philosophy/)
 - [Anthropology](https://www.reddit.com/r/Anthropology/)
 - [Fitness](https://www.reddit.com/r/Fitness/)
+
 - [Singularity](https://www.reddit.com/r/singularity/)
 - [YNAB](https://www.reddit.com/r/ynab/)
 - [Investing](https://www.reddit.com/r/investing/)
