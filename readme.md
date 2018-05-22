@@ -104,7 +104,6 @@
 - [NLP](https://www.reddit.com/r/LanguageTechnology/)
 - [Procedural generation](https://www.reddit.com/r/proceduralgeneration/)
 - [Knowledge map](https://www.reddit.com/r/factorio/)
-- [Data science](https://www.reddit.com/r/datascience/)
 - [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/)
 - [Financial independence](https://www.reddit.com/r/financialindependence/)
 - [Stoicism](https://www.reddit.com/r/Stoicism/)
@@ -252,6 +251,7 @@
 ## Machine learning
 - [Machine learning](https://www.reddit.com/r/MachineLearning/)
 - [Big data](https://www.reddit.com/r/bigdata/)
+- [Data science](https://www.reddit.com/r/datascience/)
 
 ## Bikes
 - [Bike commuting](https://www.reddit.com/r/bikecommuting/)
