@@ -240,6 +240,7 @@
 ## Drugs
 - [Drug nerds](https://www.reddit.com/r/DrugNerds/)
 - [Drugs](https://www.reddit.com/r/Drugs/)
+- [Ask Drugs](https://www.reddit.com/r/askdrugs/)
 - [Replications](https://www.reddit.com/r/replications/)
 - [NovelDissos](https://www.reddit.com/r/NovelDissos/)
 - [EU RC Sources](https://www.reddit.com/r/EU_RCSources/)
