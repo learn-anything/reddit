@@ -94,7 +94,6 @@
 - [Outrun](https://www.reddit.com/r/outrun/)
 - [Videos](https://www.reddit.com/r/videos/)
 - [I want out](https://www.reddit.com/r/IWantOut/)
-- [Art](https://www.reddit.com/r/Art/)
 - [Dotnet](https://www.reddit.com/r/dotnet/)
 - [Btc](https://www.reddit.com/r/btc/)
 - [Sociology](https://www.reddit.com/r/sociology/)
@@ -224,6 +223,7 @@
 - [Math](https://www.reddit.com/r/math/)
 
 ## Art
+- [Art](https://www.reddit.com/r/Art/)
 - [Imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
 - [Pour Painting](https://www.reddit.com/r/PourPainting/)
 
