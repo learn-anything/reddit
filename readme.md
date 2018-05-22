@@ -43,6 +43,7 @@
 
 ## Programming languages
 - [Golang](https://www.reddit.com/r/golang/)
+- [Idris](https://www.reddit.com/r/Idris/)
 - [Swift](https://www.reddit.com/r/swift/)
 - [Javascript](https://www.reddit.com/r/javascript/)
 - [Powershell](https://www.reddit.com/r/PowerShell/)
@@ -50,6 +51,7 @@
 - [Java](https://www.reddit.com/r/java/)
 - [Kotlin](https://www.reddit.com/r/factorio/)
 - [Haskell](https://www.reddit.com/r/haskell/)
+- [Purescript](https://www.reddit.com/r/purescript/)
 - [Perl](https://www.reddit.com/r/perl/)
 - [Coq](https://www.reddit.com/r/Coq/)
 
@@ -132,7 +134,6 @@
 - [Zsh](https://www.reddit.com/r/zsh/)
 - [Unity](https://www.reddit.com/r/Unity3D/)
 - [3blue1brown](https://www.reddit.com/r/3Blue1Brown/)
-- [Idris](https://www.reddit.com/r/Idris/)
 - [Lisp](https://www.reddit.com/r/lisp/)
 - [Arch](https://www.reddit.com/r/archlinux/)
 - [Godot](https://www.reddit.com/r/godot/)
