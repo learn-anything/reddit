@@ -79,7 +79,75 @@
 - [Docker](https://www.reddit.com/r/docker/)
 - [Android](https://www.reddit.com/r/Android/)
 
-# Other
+## Health
+- [Health](https://www.reddit.com/r/Health/)
+- [Get disciplined](https://www.reddit.com/r/getdisciplined/)
+- [Nootropics](https://www.reddit.com/r/Nootropics/)
+- [Vegan](https://www.reddit.com/r/vegan/)
+- [Longevity](https://www.reddit.com/r/longevity/)
+- [Advanced fitness](https://www.reddit.com/r/AdvancedFitness/)
+- [Nutrition](https://www.reddit.com/r/nutrition/)
+
+## Science
+- [Askscience](https://www.reddit.com/r/askscience/)
+- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
+- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
+- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
+- [Physics](https://www.reddit.com/r/Physics/)
+- [Chemistry](https://www.reddit.com/r/chemistry/)
+- [Astronomy](https://www.reddit.com/r/Astronomy/)
+- [Science](https://www.reddit.com/r/science/)
+
+## Cryptocurrencies
+- [CryptoTechnology](https://www.reddit.com/r/CryptoTechnology/)
+
+## Gaming
+- [Patient gamers](https://www.reddit.com/r/patientgamers/)
+
+## Math
+- [Fractals](https://www.reddit.com/r/fractals/)
+- [Gonwild](https://www.reddit.com/r/gonwild/)
+- [Holofractal](https://www.reddit.com/r/holofractal/)
+- [Fived](https://www.reddit.com/r/fived/)
+- [Hypershape](https://www.reddit.com/r/hypershape/)
+- [Math](https://www.reddit.com/r/math/)
+
+## Art
+- [Art](https://www.reddit.com/r/Art/)
+- [Imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
+- [Pour Painting](https://www.reddit.com/r/PourPainting/)
+
+## Games
+- [Factorio](https://www.reddit.com/r/factorio/)
+
+## Game dev
+- [Game Dev](https://www.reddit.com/r/gamedev/)
+
+## Funny
+- [Stopped working](https://www.reddit.com/r/StoppedWorking/)
+
+## History
+- [History](https://www.reddit.com/r/history/)
+- [Art history](https://www.reddit.com/r/ArtHistory/)
+
+## Drugs
+- [Drug nerds](https://www.reddit.com/r/DrugNerds/)
+- [Drugs](https://www.reddit.com/r/Drugs/)
+- [Ask Drugs](https://www.reddit.com/r/askdrugs/)
+- [Replications](https://www.reddit.com/r/replications/)
+- [NovelDissos](https://www.reddit.com/r/NovelDissos/)
+- [EU RC Sources](https://www.reddit.com/r/EU_RCSources/)
+
+## Machine learning
+- [Machine learning](https://www.reddit.com/r/MachineLearning/)
+- [Big data](https://www.reddit.com/r/bigdata/)
+- [Data science](https://www.reddit.com/r/datascience/)
+- [Artificial Intelligence](https://www.reddit.com/r/artificial/)
+
+## Bikes
+- [Bike commuting](https://www.reddit.com/r/bikecommuting/)
+
+## Other
 - [Security Analysis](https://www.reddit.com/r/SecurityAnalysis/)
 - [Fellow Kids](https://www.reddit.com/r/FellowKids/)
 - [GIF recipes](https://www.reddit.com/r/GifRecipes/)
@@ -187,74 +255,6 @@
 - [Writing](https://www.reddit.com/r/writing/)
 - [CineShots](https://www.reddit.com/r/CineShots/)
 - [SpaceX](https://www.reddit.com/r/spacex/)
-
-## Health
-- [Health](https://www.reddit.com/r/Health/)
-- [Get disciplined](https://www.reddit.com/r/getdisciplined/)
-- [Nootropics](https://www.reddit.com/r/Nootropics/)
-- [Vegan](https://www.reddit.com/r/vegan/)
-- [Longevity](https://www.reddit.com/r/longevity/)
-- [Advanced fitness](https://www.reddit.com/r/AdvancedFitness/)
-- [Nutrition](https://www.reddit.com/r/nutrition/)
-
-## Science
-- [Askscience](https://www.reddit.com/r/askscience/)
-- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
-- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
-- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
-- [Physics](https://www.reddit.com/r/Physics/)
-- [Chemistry](https://www.reddit.com/r/chemistry/)
-- [Astronomy](https://www.reddit.com/r/Astronomy/)
-- [Science](https://www.reddit.com/r/science/)
-
-## Cryptocurrencies
-- [CryptoTechnology](https://www.reddit.com/r/CryptoTechnology/)
-
-## Gaming
-- [Patient gamers](https://www.reddit.com/r/patientgamers/)
-
-## Math
-- [Fractals](https://www.reddit.com/r/fractals/)
-- [Gonwild](https://www.reddit.com/r/gonwild/)
-- [Holofractal](https://www.reddit.com/r/holofractal/)
-- [Fived](https://www.reddit.com/r/fived/)
-- [Hypershape](https://www.reddit.com/r/hypershape/)
-- [Math](https://www.reddit.com/r/math/)
-
-## Art
-- [Art](https://www.reddit.com/r/Art/)
-- [Imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
-- [Pour Painting](https://www.reddit.com/r/PourPainting/)
-
-## Games
-- [Factorio](https://www.reddit.com/r/factorio/)
-
-## Game dev
-- [Game Dev](https://www.reddit.com/r/gamedev/)
-
-## Funny
-- [Stopped working](https://www.reddit.com/r/StoppedWorking/)
-
-## History
-- [History](https://www.reddit.com/r/history/)
-- [Art history](https://www.reddit.com/r/ArtHistory/)
-
-## Drugs
-- [Drug nerds](https://www.reddit.com/r/DrugNerds/)
-- [Drugs](https://www.reddit.com/r/Drugs/)
-- [Ask Drugs](https://www.reddit.com/r/askdrugs/)
-- [Replications](https://www.reddit.com/r/replications/)
-- [NovelDissos](https://www.reddit.com/r/NovelDissos/)
-- [EU RC Sources](https://www.reddit.com/r/EU_RCSources/)
-
-## Machine learning
-- [Machine learning](https://www.reddit.com/r/MachineLearning/)
-- [Big data](https://www.reddit.com/r/bigdata/)
-- [Data science](https://www.reddit.com/r/datascience/)
-- [Artificial Intelligence](https://www.reddit.com/r/artificial/)
-
-## Bikes
-- [Bike commuting](https://www.reddit.com/r/bikecommuting/)
 
 ## Related
 - [Awesome subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
