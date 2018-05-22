@@ -231,6 +231,9 @@
 ## Games
 - [Factorio](https://www.reddit.com/r/factorio/)
 
+## Game dev
+- [Game Dev](https://www.reddit.com/r/gamedev/)
+
 ## Funny
 - [Stopped working](https://www.reddit.com/r/StoppedWorking/)
 
