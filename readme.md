@@ -110,7 +110,7 @@
 - [Anthropology](https://www.reddit.com/r/Anthropology/)
 - [Fitness](https://www.reddit.com/r/Fitness/)
 - [Singularity](https://www.reddit.com/r/singularity/)
-- [Ynab](https://www.reddit.com/r/ynab/)
+- [YNAB](https://www.reddit.com/r/ynab/)
 - [Investing](https://www.reddit.com/r/investing/)
 - [Depthhub](https://www.reddit.com/r/DepthHub/)
 - [Lectures](https://www.reddit.com/r/lectures/)
