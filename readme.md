@@ -56,7 +56,6 @@
 - [Perl](https://www.reddit.com/r/perl/)
 - [Coq](https://www.reddit.com/r/Coq/)
 
-
 ## Programming
 - [Advent of Code](https://www.reddit.com/r/adventofcode/)
 
@@ -107,7 +106,6 @@
 - [Knowledge map](https://www.reddit.com/r/factorio/)
 - [Data science](https://www.reddit.com/r/datascience/)
 - [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/)
-- [History](https://www.reddit.com/r/history/)
 - [Financial independence](https://www.reddit.com/r/financialindependence/)
 - [Stoicism](https://www.reddit.com/r/Stoicism/)
 - [Philosophy](https://www.reddit.com/r/philosophy/)
@@ -240,6 +238,7 @@
 - [Stopped working](https://www.reddit.com/r/StoppedWorking/)
 
 ## History
+- [History](https://www.reddit.com/r/history/)
 - [Art history](https://www.reddit.com/r/ArtHistory/)
 
 ## Drugs
