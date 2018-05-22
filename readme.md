@@ -109,7 +109,6 @@
 - [Philosophy](https://www.reddit.com/r/philosophy/)
 - [Anthropology](https://www.reddit.com/r/Anthropology/)
 - [Fitness](https://www.reddit.com/r/Fitness/)
-
 - [Singularity](https://www.reddit.com/r/singularity/)
 - [YNAB](https://www.reddit.com/r/ynab/)
 - [Investing](https://www.reddit.com/r/investing/)
@@ -117,7 +116,6 @@
 - [Lectures](https://www.reddit.com/r/lectures/)
 - [Anki](https://www.reddit.com/r/Anki/)
 - [Cognitive science](https://www.reddit.com/r/cogsci/)
-- [Artificial intelligence](https://www.reddit.com/r/artificial/)
 - [Minimalism](https://www.reddit.com/r/minimalism/)
 - [Startups](https://www.reddit.com/r/startups/)
 - [True film](https://www.reddit.com/r/TrueFilm/)
@@ -253,6 +251,7 @@
 - [Machine learning](https://www.reddit.com/r/MachineLearning/)
 - [Big data](https://www.reddit.com/r/bigdata/)
 - [Data science](https://www.reddit.com/r/datascience/)
+- [Artificial Intelligence](https://www.reddit.com/r/artificial/)
 
 ## Bikes
 - [Bike commuting](https://www.reddit.com/r/bikecommuting/)
