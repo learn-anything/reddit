@@ -34,6 +34,7 @@
 - [New retro wave](https://www.reddit.com/r/newretrowave/)
 - [80s electro](https://www.reddit.com/r/80sElectro/)
 - [Cyber punk music](https://www.reddit.com/r/Cyberpunk_Music/)
+- [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
 
 ## Consciousness
 - [Psychonaut](https://www.reddit.com/r/Psychonaut/)
@@ -237,7 +238,6 @@
 - [Discord](https://www.reddit.com/r/discordapp/)
 - [High intensity interval training](https://www.reddit.com/r/HIIT/)
 - [Hearthstone](https://www.reddit.com/r/hearthstone/)
-- [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
 - [Meshnet](https://www.reddit.com/r/Meshnet/)
 - [Darknet plan](https://www.reddit.com/r/Bitcoin/comments/54yyys/gotenna_decentralised_mobile_mesh_grid_with_sdk/)
 - [C programming](https://www.reddit.com/r/C_Programming/)
