@@ -137,6 +137,7 @@
 - [Replications](https://www.reddit.com/r/replications/)
 - [NovelDissos](https://www.reddit.com/r/NovelDissos/)
 - [EU RC Sources](https://www.reddit.com/r/EU_RCSources/)
+- [Dark Net Market Noobs](https://www.reddit.com/r/DarkNetMarketsNoobs/)
 
 ## Machine learning
 - [Machine learning](https://www.reddit.com/r/MachineLearning/)
