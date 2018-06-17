@@ -146,6 +146,7 @@
 - [Data science](https://www.reddit.com/r/datascience/)
 - [Artificial Intelligence](https://www.reddit.com/r/artificial/)
 - [ML Questions](https://www.reddit.com/r/MLQuestions/)
+- [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
 
 ## Bikes
 - [Bike commuting](https://www.reddit.com/r/bikecommuting/)
