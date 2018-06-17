@@ -58,6 +58,7 @@
 - [Coq](https://www.reddit.com/r/Coq/)
 
 ## Programming
+- [Graphics Programming](https://www.reddit.com/r/GraphicsProgramming/)
 - [Advent of Code](https://www.reddit.com/r/adventofcode/)
 
 ## Apple
