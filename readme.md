@@ -82,6 +82,7 @@
 - [Android](https://www.reddit.com/r/Android/)
 
 ## Health
+- [Plant Based Diet](https://www.reddit.com/r/PlantBasedDiet)
 - [Health](https://www.reddit.com/r/Health/)
 - [Get disciplined](https://www.reddit.com/r/getdisciplined/)
 - [Nootropics](https://www.reddit.com/r/Nootropics/)
