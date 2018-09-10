@@ -1,5 +1,5 @@
 # Awesome Reddit subreddits [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## Code
 - [Learn programming](https://www.reddit.com/r/learnprogramming/)
@@ -266,7 +266,7 @@
 - [Awesome subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md/#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
