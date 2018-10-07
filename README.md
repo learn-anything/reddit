@@ -37,11 +37,11 @@
 ## Apple
 
 - [Apple](https://www.reddit.com/r/apple/)
+- [iOS programming](https://www.reddit.com/r/iOSProgramming/)
 - [Iosdev](https://www.reddit.com/r/iosdev/)
 - [Mac apps](https://www.reddit.com/r/macapps/)
 - [MacOS](https://www.reddit.com/r/MacOS/)
 - [Osx](https://www.reddit.com/r/osx/)
-- [iOS programming](https://www.reddit.com/r/iOSProgramming/)
 
 ## Art
 
@@ -182,18 +182,18 @@
 - [C programming](https://www.reddit.com/r/C_Programming/)
 - [C++](https://www.reddit.com/r/cpp/)
 - [Chip tunes](https://www.reddit.com/r/chiptunes)
-- [CineShots](https://www.reddit.com/r/CineShots/)
 - [Cinemagraphs](https://www.reddit.com/r/Cinemagraphs/)
+- [CineShots](https://www.reddit.com/r/CineShots/)
 - [Civilisation](https://www.reddit.com/r/civ/)
 - [Clojure](https://www.reddit.com/r/Clojure/)
 - [Cognitive science](https://www.reddit.com/r/cogsci/)
 - [Creative coding](https://www.reddit.com/r/creativecoding/)
-- [DMT](https://www.reddit.com/r/DMT/)
 - [Darknet plan](https://www.reddit.com/r/Bitcoin/comments/54yyys/gotenna_decentralised_mobile_mesh_grid_with_sdk/)
 - [Data is beautiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Dependent types](https://www.reddit.com/r/dependent_types/)
 - [Depthhub](https://www.reddit.com/r/DepthHub/)
 - [Discord](https://www.reddit.com/r/discordapp/)
+- [DMT](https://www.reddit.com/r/DMT/)
 - [Dotnet](https://www.reddit.com/r/dotnet/)
 - [ELI 5](https://www.reddit.com/r/explainlikeimfive/)
 - [Emacs](https://www.reddit.com/r/emacs/)
@@ -213,24 +213,25 @@
 - [I want out](https://www.reddit.com/r/IWantOut/)
 - [Internet of things](https://www.reddit.com/r/IOT/)
 - [Investing](https://www.reddit.com/r/investing/)
+- [iPhonegraphy](https://www.reddit.com/r/iPhoneography/)
 - [Japan](https://www.reddit.com/r/japan/)
 - [Knowledge map](https://www.reddit.com/r/factorio/)
-- [LSD](https://www.reddit.com/r/LSD/)
 - [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/)
 - [Latex](https://www.reddit.com/r/LaTeX/)
 - [Lectures](https://www.reddit.com/r/lectures/)
 - [Lisp](https://www.reddit.com/r/lisp/)
 - [Live aboard](https://www.reddit.com/r/liveaboard/)
 - [London](https://www.reddit.com/r/london/)
+- [LSD](https://www.reddit.com/r/LSD/)
 - [Mac setups](https://www.reddit.com/r/macsetups/)
 - [Marketing](https://www.reddit.com/r/marketing/)
 - [Mdma](https://www.reddit.com/r/MDMA/)
 - [Meshnet](https://www.reddit.com/r/Meshnet/)
 - [Minimalism](https://www.reddit.com/r/minimalism/)
 - [Multihub](https://www.reddit.com/r/multihub/)
-- [NLP](https://www.reddit.com/r/LanguageTechnology/)
 - [Nature is lit](https://www.reddit.com/r/NatureIsFuckingLit/)
 - [NixOS](https://www.reddit.com/r/NixOS/)
+- [NLP](https://www.reddit.com/r/LanguageTechnology/)
 - [One Bag](https://www.reddit.com/r/onebag/)
 - [Osdev](https://www.reddit.com/r/osdev/)
 - [Out of the loop](https://www.reddit.com/r/OutOfTheLoop/)
@@ -268,12 +269,11 @@
 - [United Kingdom](https://www.reddit.com/r/unitedkingdom/)
 - [Unity](https://www.reddit.com/r/Unity3D/)
 - [Unix porn](https://www.reddit.com/r/unixporn/)
-- [VS Code](https://www.reddit.com/r/vscode/)
 - [Videos](https://www.reddit.com/r/videos/)
+- [VS Code](https://www.reddit.com/r/vscode/)
 - [Writing](https://www.reddit.com/r/writing/)
 - [YNAB](https://www.reddit.com/r/ynab/)
 - [Zsh](https://www.reddit.com/r/zsh/)
-- [iPhonegraphy](https://www.reddit.com/r/iPhoneography/)
 
 ## Programming
 
@@ -306,10 +306,10 @@
 - [Astronomy](https://www.reddit.com/r/Astronomy/)
 - [Chemistry](https://www.reddit.com/r/chemistry/)
 - [Computational chemistry](https://www.reddit.com/r/comp_chem/)
+- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
 - [Physics](https://www.reddit.com/r/Physics/)
 - [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
 - [Science](https://www.reddit.com/r/science/)
-- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
 
 ## Web
 
