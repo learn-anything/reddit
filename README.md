@@ -25,12 +25,12 @@
 - [Machine learning](#machine-learning)
 - [Math](#math)
 - [Music](#music)
-- [Other](#other)
 - [Programming](#programming)
 - [Programming languages](#programming-languages)
-- [Related](#related)
 - [Science](#science)
 - [Web](#web)
+- [Other](#other)
+- [Related](#related)
 
 ---
 
@@ -71,8 +71,8 @@
 
 - [Algorithms](https://www.reddit.com/r/algorithms/)
 - [Ask computer science](https://www.reddit.com/r/AskComputerScience/)
-- [CS career questions](https://www.reddit.com/r/cscareerquestions/)
 - [Compsci](https://www.reddit.com/r/compsci/)
+- [CS career questions](https://www.reddit.com/r/cscareerquestions/)
 - [Netsec](https://www.reddit.com/r/netsec/)
 
 ## Consciousness
@@ -140,8 +140,8 @@
 - [Big data](https://www.reddit.com/r/bigdata/)
 - [Data science](https://www.reddit.com/r/datascience/)
 - [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
-- [ML Questions](https://www.reddit.com/r/MLQuestions/)
 - [Machine learning](https://www.reddit.com/r/MachineLearning/)
+- [ML Questions](https://www.reddit.com/r/MLQuestions/)
 
 ## Math
 
@@ -164,6 +164,49 @@
 - [Listen to us](https://www.reddit.com/r/listentous/)
 - [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
 - [New retro wave](https://www.reddit.com/r/newretrowave/)
+
+## Programming
+
+- [Advent of Code](https://www.reddit.com/r/adventofcode/)
+- [Graphics Programming](https://www.reddit.com/r/GraphicsProgramming/)
+
+## Programming languages
+
+- [Coq](https://www.reddit.com/r/Coq/)
+- [Golang](https://www.reddit.com/r/golang/)
+- [Haskell](https://www.reddit.com/r/haskell/)
+- [Idris](https://www.reddit.com/r/Idris/)
+- [Java](https://www.reddit.com/r/java/)
+- [Javascript](https://www.reddit.com/r/javascript/)
+- [Kotlin](https://www.reddit.com/r/factorio/)
+- [OCaml](https://www.reddit.com/r/ocaml/)
+- [Perl](https://www.reddit.com/r/perl/)
+- [Powershell](https://www.reddit.com/r/PowerShell/)
+- [Purescript](https://www.reddit.com/r/purescript/)
+- [Python](https://www.reddit.com/r/Python/)
+- [Swift](https://www.reddit.com/r/swift/)
+
+## Science
+
+- [Askscience](https://www.reddit.com/r/askscience/)
+- [Astronomy](https://www.reddit.com/r/Astronomy/)
+- [Chemistry](https://www.reddit.com/r/chemistry/)
+- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
+- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
+- [Physics](https://www.reddit.com/r/Physics/)
+- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
+- [Science](https://www.reddit.com/r/science/)
+
+## Web
+
+- [Front end](https://www.reddit.com/r/Frontend/)
+- [Internet is beautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+- [Learn javascript](https://www.reddit.com/r/learnjavascript/)
+- [Node js](https://www.reddit.com/r/node/)
+- [Rails](https://www.reddit.com/r/rails/)
+- [React js](https://www.reddit.com/r/reactjs/)
+- [Web design](https://www.reddit.com/r/web_design/)
+- [Web dev](https://www.reddit.com/r/webdev/)
 
 ## Other
 
@@ -275,52 +318,9 @@
 - [YNAB](https://www.reddit.com/r/ynab/)
 - [Zsh](https://www.reddit.com/r/zsh/)
 
-## Programming
-
-- [Advent of Code](https://www.reddit.com/r/adventofcode/)
-- [Graphics Programming](https://www.reddit.com/r/GraphicsProgramming/)
-
-## Programming languages
-
-- [Coq](https://www.reddit.com/r/Coq/)
-- [Golang](https://www.reddit.com/r/golang/)
-- [Haskell](https://www.reddit.com/r/haskell/)
-- [Idris](https://www.reddit.com/r/Idris/)
-- [Java](https://www.reddit.com/r/java/)
-- [Javascript](https://www.reddit.com/r/javascript/)
-- [Kotlin](https://www.reddit.com/r/factorio/)
-- [OCaml](https://www.reddit.com/r/ocaml/)
-- [Perl](https://www.reddit.com/r/perl/)
-- [Powershell](https://www.reddit.com/r/PowerShell/)
-- [Purescript](https://www.reddit.com/r/purescript/)
-- [Python](https://www.reddit.com/r/Python/)
-- [Swift](https://www.reddit.com/r/swift/)
-
 ## Related
 
 - [Awesome subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
-
-## Science
-
-- [Askscience](https://www.reddit.com/r/askscience/)
-- [Astronomy](https://www.reddit.com/r/Astronomy/)
-- [Chemistry](https://www.reddit.com/r/chemistry/)
-- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
-- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
-- [Physics](https://www.reddit.com/r/Physics/)
-- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
-- [Science](https://www.reddit.com/r/science/)
-
-## Web
-
-- [Front end](https://www.reddit.com/r/Frontend/)
-- [Internet is beautiful](https://www.reddit.com/r/InternetIsBeautiful/)
-- [Learn javascript](https://www.reddit.com/r/learnjavascript/)
-- [Node js](https://www.reddit.com/r/node/)
-- [Rails](https://www.reddit.com/r/rails/)
-- [React js](https://www.reddit.com/r/reactjs/)
-- [Web design](https://www.reddit.com/r/web_design/)
-- [Web dev](https://www.reddit.com/r/webdev/)
 
 ---
 
