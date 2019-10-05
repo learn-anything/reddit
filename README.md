@@ -48,6 +48,7 @@
 - [Art](https://www.reddit.com/r/Art/)
 - [Imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
 - [Pour Painting](https://www.reddit.com/r/PourPainting/)
+- [Art Fundamentals](https://www.reddit.com/r/ArtFundamentals/)
 
 ## Bikes
 
