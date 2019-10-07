@@ -186,6 +186,10 @@
 - [Purescript](https://www.reddit.com/r/purescript/)
 - [Python](https://www.reddit.com/r/Python/)
 - [Swift](https://www.reddit.com/r/swift/)
+- [ReactJS](https://www.reddit.com/r/reactjs/)
+- [AngularJS](https://www.reddit.com/r/angularjs/)
+- [VueJS](https://www.reddit.com/r/vuejs/)
+- [C](https://www.reddit.com/r/C_Programming/)
 
 ## Science
 
